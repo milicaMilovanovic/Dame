@@ -1,0 +1,14 @@
+# Compiled binaries
+*.class
+# Windows specific
+Thumbs.db
+Desktop.ini
+# OS X specific
+.DS_Store
+._*
+# Linux specific
+*~
+# Eclipse metadata
+.metadata/
+.recommenders/
+/bin/
